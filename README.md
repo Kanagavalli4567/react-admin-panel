@@ -134,47 +134,6 @@ Technologies Used
 | Git               | Version control                |
 | GitHub            | Source code hosting            |
 
-Project Structure
-
-admin-panel/
-│
-├── src/
-│   │
-│   ├── components/
-│   │   ├── Sidebar.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── StatCard.jsx
-│   │   ├── Modal.jsx
-│   │   └── ProtectedRoute.jsx
-│   │
-│   ├── pages/
-│   │   ├── Login.jsx
-│   │   ├── Dashboard.jsx
-│   │   ├── Users.jsx
-│   │   ├── Products.jsx
-│   │   ├── Orders.jsx
-│   │   ├── Analytics.jsx
-│   │   ├── Messages.jsx
-│   │   ├── Notifications.jsx
-│   │   ├── Support.jsx
-│   │   ├── ActivityLogs.jsx
-│   │   ├── Profile.jsx
-│   │   ├── Settings.jsx
-│   │   └── NotFound.jsx
-│   │
-│   ├── context/
-│   │   └── AdminContext.jsx
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-│
-├── public/
-│
-├── package.json
-├── index.html
-└── README.md
-
 Installation
 
 1. Clone the repository
